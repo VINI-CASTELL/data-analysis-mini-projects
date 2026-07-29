@@ -8,7 +8,7 @@ A growing collection of independent data analysis projects, experiments and prac
 
 ## About
 
-This repository documents my learning journey through projects involving:
+This repository documents projects involving:
 
 - exploratory data analysis;
 - data cleaning and visualization;
@@ -18,14 +18,15 @@ This repository documents my learning journey through projects involving:
 
 ## Organization
 
-Each project is stored in its own folder and may include:
+Each project is stored in its own folder and contains its own documentation, notebook and execution instructions.
 
 ```text
-project-name/
-├── README.md
-├── notebook.ipynb
-├── requirements.txt
-└── supporting files
+data-analysis-mini-projects/
+├── project-name/
+│   ├── README.md
+│   ├── notebook.ipynb
+│   └── requirements.txt
+└── README.md
 ```
 
 ## Technologies
